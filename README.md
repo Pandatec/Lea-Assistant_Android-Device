@@ -1,6 +1,6 @@
 # Lea-Android-Device
 
-[![Build](https://github.com/Lea-Voc/Lea-Android-Device/actions/workflows/build.yml/badge.svg)](https://github.com/Lea-Voc/Lea-Android-Device/actions/workflows/build.yml)
+<!-- [![Build](https://github.com/Lea-Voc/Lea-Android-Device/actions/workflows/build.yml/badge.svg)](https://github.com/Lea-Voc/Lea-Android-Device/actions/workflows/build.yml) -->
 
 Device Android app, just receiving / sending audio from server. Substitute for the ESP32 hardware-base device.
 
